@@ -1,2 +1,2 @@
-dockerfile alpine with nodejs
-=============================
+dockerfile alpine with elixir / erlang
+======================================
