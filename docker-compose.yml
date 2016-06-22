@@ -1,7 +1,7 @@
 version: "2"
 services:
 
-  elixirimage:
+  base:
     build: build
     ulimits:
       nproc: 65535
