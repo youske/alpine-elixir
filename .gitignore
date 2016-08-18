@@ -5,13 +5,11 @@ tests/*
 .idea/*
 
 #
-.git*
 .sync-config.cson
 .remote-sync.json
 .editorconfig
-LICENSE*
-README*
 
+#
 [cCgGeE]tags
 [cCgGeE]TAGS
 .DS_Store
@@ -20,7 +18,9 @@ README*
 Thumbs.db
 .tags
 *.swp
-*.lock
 *.lck
+*.lock
 *.*~
 *~
+
+!.gitkeep

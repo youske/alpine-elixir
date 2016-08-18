@@ -8,4 +8,3 @@ services:
       nofile:
         soft: 20000
         hard: 40000
-    stdin_open: true
